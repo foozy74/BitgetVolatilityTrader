@@ -1,0 +1,436 @@
+{
+    "LUCE/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -124.65415904107113,
+            "profit_percent": -12.465415904107111,
+            "trades": 61,
+            "win_rate": 16.39344262295082,
+            "max_drawdown": 18.512385114031847,
+            "sharpe_ratio": -2.6514274802800317
+        }
+    },
+    "AERGO/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 65,
+                "oversold": 15
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": 4.352420749971657,
+            "profit_percent": 0.4352420749971657,
+            "trades": 14,
+            "win_rate": 28.57142857142857,
+            "max_drawdown": 3.770101022080805,
+            "sharpe_ratio": 0.4575467853993063
+        }
+    },
+    "PAWS/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -7.271428597694921,
+            "profit_percent": -0.7271428597694921,
+            "trades": 5,
+            "win_rate": 20.0,
+            "max_drawdown": 1.5687984375000095,
+            "sharpe_ratio": -1.6790344858679167
+        }
+    },
+    "ETH/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 68,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 21
+            }
+        },
+        "results": {
+            "profit": 12.695355854315267,
+            "profit_percent": 1.2695355854315267,
+            "trades": 19,
+            "win_rate": 47.368421052631575,
+            "max_drawdown": 3.567968528934499,
+            "sharpe_ratio": 1.1758609878573931,
+            "phase_scores": {
+                "sideways": 19.16704400219361
+            }
+        },
+        "market_phases_tested": [
+            "sideways"
+        ]
+    },
+    "XRP/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 65,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 21
+            }
+        },
+        "results": {
+            "profit": 0.483165310359027,
+            "profit_percent": 0.0483165310359027,
+            "trades": 14,
+            "win_rate": 50.0,
+            "max_drawdown": 2.2794240613037346,
+            "sharpe_ratio": 0.1317062094457487,
+            "phase_scores": {
+                "sideways": 14.991664959902385
+            }
+        },
+        "market_phases_tested": [
+            "sideways"
+        ]
+    },
+    "ADA/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 68,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 21
+            }
+        },
+        "results": {
+            "profit": 16.75731883209994,
+            "profit_percent": 1.675731883209994,
+            "trades": 15,
+            "win_rate": 53.333333333333336,
+            "max_drawdown": 3.0276268690673778,
+            "sharpe_ratio": 1.9791857564954058,
+            "phase_scores": {
+                "sideways": 22.796001997232317
+            }
+        },
+        "market_phases_tested": [
+            "sideways"
+        ]
+    },
+    "SOL/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": 14.85667976205832,
+            "profit_percent": 1.485667976205832,
+            "trades": 16,
+            "win_rate": 43.75,
+            "max_drawdown": 3.0276268690673636,
+            "sharpe_ratio": 1.5101460365281545
+        }
+    },
+    "10000000AIDOGE/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -6.667490005330251,
+            "profit_percent": -0.6667490005330251,
+            "trades": 9,
+            "win_rate": 22.22222222222222,
+            "max_drawdown": 4.632947557835325,
+            "sharpe_ratio": -0.7669388934407713
+        }
+    },
+    "VOXEL/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 65,
+                "oversold": 15
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -58.83557780027934,
+            "profit_percent": -5.8835577800279335,
+            "trades": 36,
+            "win_rate": 22.22222222222222,
+            "max_drawdown": 11.277859476665592,
+            "sharpe_ratio": -2.056478303250772
+        }
+    },
+    "MEMEFI/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -132.43585190174167,
+            "profit_percent": -13.243585190174167,
+            "trades": 70,
+            "win_rate": 17.142857142857142,
+            "max_drawdown": 22.07290913768299,
+            "sharpe_ratio": -2.4379367145898594
+        }
+    },
+    "ZEREBRO/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -65.47995519858216,
+            "profit_percent": -6.547995519858215,
+            "trades": 49,
+            "win_rate": 18.367346938775512,
+            "max_drawdown": 13.242931871766746,
+            "sharpe_ratio": -1.5221837114921948
+        }
+    },
+    "VIRTUAL/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 70,
+                "oversold": 20
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": -181.99922611888007,
+            "profit_percent": -18.19992261188801,
+            "trades": 47,
+            "win_rate": 12.76595744680851,
+            "max_drawdown": 20.077458541421063,
+            "sharpe_ratio": -7.010166481677355
+        }
+    },
+    "DARK/USDT:USDT": {
+        "timestamp": 1745936830,
+        "timeframe": "1h",
+        "parameters": {
+            "rsi": {
+                "period": 7,
+                "overbought": 65,
+                "oversold": 15
+            },
+            "macd": {
+                "fast": 8,
+                "slow": 20,
+                "signal": 7
+            },
+            "bb": {
+                "period": 15,
+                "deviation": 1.5
+            },
+            "ema": {
+                "fast": 5,
+                "slow": 15
+            }
+        },
+        "results": {
+            "profit": 23.372829783178076,
+            "profit_percent": 2.3372829783178077,
+            "trades": 6,
+            "win_rate": 33.33333333333333,
+            "max_drawdown": 2.2794240613037458,
+            "sharpe_ratio": 3.8297814794342444
+        }
+    }
+}
